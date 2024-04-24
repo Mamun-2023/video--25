@@ -1,0 +1,13 @@
+
+/* nav ul  #list-1{
+    list-style-image: url(joy.jpg);
+    margin-left: 50px;
+} */
+/* nav ul #list-2{
+    
+list-style-type:;
+} */
+nav ul li{
+    list-style-image:url(joy.jpg);
+    list-style-position: inside;
+}
